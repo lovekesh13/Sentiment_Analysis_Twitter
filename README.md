@@ -1,7 +1,6 @@
 # Sentiment_Analysis_Twitter
-Scrape Tweets and perform Sentiment Analysis to see which Texas Senator has higher chance of winning November 2018
-
-THIS IS PART OF A SCHOOL PROJECT
-
-All the analysis performed, code, charts, resultsetc. is present in python file with appropriate descriptions.
-Do check it out. My predictions matched actual results when they came out.
+•	Collected 4000 Tweets on 2018 Texas Senate Race and fetched issues discussed 
+•	4 key issues were shortlisted and performed Lift and sentiment analysis to see their association with each Senator
+•	Showcased association strength using MDS plot
+•	Used VADER to perform sentiment analysis and resultant matrix showed Cruz has more positive sentiment then Cruz by a small margin
+•	Result obtained by analysis matched actual outcome by 99%
