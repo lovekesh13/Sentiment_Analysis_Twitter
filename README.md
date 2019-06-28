@@ -5,6 +5,6 @@
 
 •	Showcased association strength using MDS plot
 
-•	Used VADER to perform sentiment analysis and resultant matrix showed Cruz has more positive sentiment then Cruz by a small margin
+•	Used VADER to perform sentiment analysis and resultant matrix showed Cruz has more positive sentiment then Beto by a small margin
 
 •	Result obtained by analysis matched actual outcome by 99%
